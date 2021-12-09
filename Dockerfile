@@ -1,5 +1,6 @@
 # Author: Nobby Nguyen
 # Purpose: Individual assignment 4 - Creating Docker images from Dockerfile
+#
 
 FROM jupyter/scipy-notebook
 
